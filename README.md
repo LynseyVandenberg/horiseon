@@ -8,7 +8,7 @@ This website has been updated to meet current accessibility standards and has be
 * The stylesheets were updated and consolodated to reflect the element changes in the html file.
 
 <!-- Lnks -->
-[HORISEON WEB MANAGEMENT SOLUTIONS](http://lynseyvandenberg.github.io/horiseon "Horiseon Refactor")
+[HORISEON WEB MANAGEMENT SOLUTIONS](http://lynseyvandenberg.github.io/horiseon-refactor "Horiseon Refactor")
 
 
 <!-- Images -->
