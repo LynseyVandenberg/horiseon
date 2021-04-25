@@ -12,6 +12,6 @@ This website has been updated to meet current accessibility standards and has be
 
 
 <!-- Images -->
-![Markdown Logo](https://location of image)
+![Horiseon Web Management Solutions](./assets/images/horiseon_screenshot.png)
 
 
